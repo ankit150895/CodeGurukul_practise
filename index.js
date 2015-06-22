@@ -11,6 +11,7 @@ app.get('/',function(req,res)
 {
 	res.render('index');
 });
+
 //req=request => HTTP request object
 //res=response => HTTP response object
 app.listen(3020); 

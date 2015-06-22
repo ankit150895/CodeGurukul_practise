@@ -1,0 +1,20 @@
+{
+  "name": "codegurukul_practise",
+  "main": "index.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ankit150895/CodeGurukul_practise",
+  "authors": [
+    "ankit tanna <ankit.tnn@gmail.com>"
+  ],
+  "description": "My first web application",
+  "keywords": [
+    "Education",
+    "Web",
+    "Designing"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
