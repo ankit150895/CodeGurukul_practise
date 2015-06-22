@@ -1,0 +1,27 @@
+{
+  "name": "codegurukul_practise",
+  "version": "1.0.0",
+  "description": "This is my first web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit150895/CodeGurukul_practise.git"
+  },
+  "keywords": [
+    "Education",
+    "Web",
+    "Designing"
+  ],
+  "author": "Ankit Tanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit150895/CodeGurukul_practise/issues"
+  },
+  "homepage": "https://github.com/ankit150895/CodeGurukul_practise#readme",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
